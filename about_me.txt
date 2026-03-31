@@ -1,0 +1,5 @@
+I am a Software Engineering student with a strong interest in building efficient systems.
+I enjoy learning programming concepts and applying them to real-world problems.
+I have experience in web development using HTML, CSS, and JavaScript.
+I am currently exploring backend development and software design principles.
+I am committed to continuous learning and improving my technical skills.
